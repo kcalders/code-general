@@ -1,0 +1,4 @@
+1. Set path; add tree_model path : add with subfolders
+2. import txt data file, matrix, range A2:C* (to skip header line)
+3.  a=cylinder_tree_model(tree26, 0.04, 0.045,5,'test') %change values according to tree
+3b. trying with smaller coversets: > a=cylinder_tree_model(tree26, 0.02, 0.025,5,'test')
